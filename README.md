@@ -1,1 +1,0 @@
-# gluco-meter
